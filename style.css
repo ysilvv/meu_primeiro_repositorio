@@ -1,0 +1,32 @@
+
+.card{
+    width: 500px;
+    height: fit-content;
+    border: 3px solid black;
+    border-radius: 25px;
+    background-color: aliceblue;
+    margin: 10px;
+
+}
+.card-imagem{
+    width: 100px; 
+    border-radius:50%
+
+}
+.card-imagem{
+    width: 50%; 
+    height: 20%;
+}
+.card-titulo{
+    font-size: 35px;
+}
+
+.card-titulo .card-titulo-nome{
+    color: blue;
+}
+
+.card-mensagem-spam{
+    font-style: italic;
+    font-weight: bold;
+    color:rgb(255, 0, 0);
+}
