@@ -1,0 +1,31 @@
+.divPai1{
+    background-color: #ffbc70;
+     width: 1000px; 
+     height: 500px;
+}
+
+.divFilha1{
+   background-color: #a3e2a3; 
+   width: 50%; 
+   height: 50%;
+}
+
+.pFilha1{
+    color: white;
+    background-color: red;
+    font-size: 25px; 
+    font-family: monospace;
+    font-weight: bold;
+}
+
+.divPai2{
+    width: 50%; 
+    height: 50vh; 
+    background-color: rgb(135, 206, 250);
+}
+
+.divFilha2{
+    width: 75vw; 
+    height: 50%; 
+    background-color: rgb(255, 0, 0)
+}
